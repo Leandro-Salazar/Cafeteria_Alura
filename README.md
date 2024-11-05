@@ -2,6 +2,11 @@
 
 ## Link de Produção: https://cafeteria-alura.vercel.app/
 
+## Tecnologias utilizadas : 
+- HTML
+- CSS
+- Bootstrap
+
 ### Este projeto foi desenvolvido como parte da formação em Bootstrap da Alura. Nele, criamos um site com HTML, CSS e Bootstrap para estilização, adicionando JavaScript para implementar o modo dark. O site foi projetado com foco na responsividade, garantindo uma experiência de navegação fluida em diferentes dispositivos e tamanhos de tela.
 
 ![image](https://github.com/user-attachments/assets/c38ca61a-706c-43be-bc20-053621a9c5b8)
